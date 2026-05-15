@@ -28,7 +28,7 @@ const Calculator = () => {
 
   return (
     <>
-   <h1 style={{textAlign:"center"}}>Calculator</h1>
+   <h1 style={{textAlign:"center" , color:"#3656a6"}}>Calculator</h1>
     <div className="calculator-container">
        
       <div className="calculator">
